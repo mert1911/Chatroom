@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MovieSelection>
+  <Movie id="tt0926084" title="Harry Potter e i Doni della Morte - Parte 1" originalTitle="Harry Potter and the Deathly Hallows: Part 1" year="2010" genres="adventure, family, fantasy" duration="146" countries="UK, USA">
+    <Rating id="tt0926084" rating="7.7" numRatings="463108" />
+    <Information id="tt0926084" description="As Harry (Daniel Radcliffe), Ron (Rupert Grint), and Hermione (Emma Watson) race against time and evil to destroy the Horcruxes, they uncover the existence of the three most powerful objects in the wizarding world: the Deathly Hallows." actors="Bill Nighy, Emma Watson, Richard Griffiths, Harry Melling, Daniel Radcliffe, Julie Walters, Bonnie Wright, Rupert Grint, Ian Kelly, Michelle Fairley, Fiona Shaw, Alan Rickman, Carolyn Pickles, Ralph Fiennes, Helena Bonham Carter" director="David Yates" prodCompany="Warner Bros." />
+  </Movie>
+  <Movie id="tt0330373" title="Harry Potter e il calice di fuoco" originalTitle="Harry Potter and the Goblet of Fire" year="2005" genres="adventure, family, fantasy" duration="157" countries="UK, USA">
+    <Rating id="tt0330373" rating="7.7" numRatings="530516" />
+    <Information id="tt0330373" description="Harry Potter finds himself competing in a hazardous tournament between rival schools of magic, but he is distracted by recurring nightmares." actors="Eric Sykes, Timothy Spall, David Tennant, Daniel Radcliffe, Emma Watson, Rupert Grint, Mark Williams, James Phelps, Oliver Phelps, Bonnie Wright, Jeff Rawle, Robert Pattinson, Jason Isaacs, Tom Felton, Stanislav Yanevski" director="Mike Newell" prodCompany="Warner Bros." />
+  </Movie>
+  <Movie id="tt0304141" title="Harry Potter e il prigioniero di Azkaban" originalTitle="Harry Potter and the Prisoner of Azkaban" year="2004" genres="adventure, family, fantasy" duration="142" countries="UK, USA">
+    <Rating id="tt0304141" rating="7.9" numRatings="533229" />
+    <Information id="tt0304141" description="Harry Potter, Ron and Hermione return to Hogwarts School of Witchcraft and Wizardry for their third year of study, where they delve into the mystery surrounding an escaped prisoner who poses a dangerous threat to the young wizard." actors="Daniel Radcliffe, Richard Griffiths, Pam Ferris, Fiona Shaw, Harry Melling, Adrian Rawlins, Geraldine Somerville, Lee Ingleby, Lenny Henry, Jimmy Gardner, Gary Oldman, Jim Tavaré, Robert Hardy, Abby Ford, Rupert Grint" director="Alfonso Cuarón" prodCompany="Warner Bros." />
+  </Movie>
+  <Movie id="tt1201607" title="Harry Potter e i Doni della Morte - Parte 2" originalTitle="Harry Potter and the Deathly Hallows: Part 2" year="2011" genres="adventure, drama, fantasy" duration="130" countries="UK, USA">
+    <Rating id="tt1201607" rating="8.1" numRatings="743339" />
+    <Information id="tt1201607" description="Harry, Ron, and Hermione search for Voldemort's remaining Horcruxes in their effort to destroy the Dark Lord as the final battle rages on at Hogwarts." actors="Ralph Fiennes, Michael Gambon, Alan Rickman, Daniel Radcliffe, Rupert Grint, Emma Watson, Evanna Lynch, Domhnall Gleeson, Clémence Poésy, Warwick Davis, John Hurt, Helena Bonham Carter, Graham Duff, Anthony Allgood, Rusty Goffe" director="David Yates" prodCompany="Warner Bros." />
+  </Movie>
+  <Movie id="tt0295297" title="Harry Potter e la camera dei segreti" originalTitle="Harry Potter and the Chamber of Secrets" year="2002" genres="adventure, family, fantasy" duration="161" countries="UK, USA, Germany">
+    <Rating id="tt0295297" rating="7.4" numRatings="535906" />
+    <Information id="tt0295297" description="An ancient prophecy seems to be coming true when a mysterious presence begins stalking the corridors of a school of magic and leaving its victims paralyzed." actors="Daniel Radcliffe, Rupert Grint, Emma Watson, Richard Griffiths, Fiona Shaw, Harry Melling, Toby Jones, Jim Norton, Veronica Clifford, James Phelps, Oliver Phelps, Julie Walters, Bonnie Wright, Mark Williams, Chris Rankin" director="Chris Columbus" prodCompany="Warner Bros." />
+  </Movie>
+  <Movie id="tt0241527" title="Harry Potter e la pietra filosofale" originalTitle="Harry Potter and the Sorcerer's Stone" year="2001" genres="adventure, family, fantasy" duration="152" countries="UK, USA">
+    <Rating id="tt0241527" rating="7.6" numRatings="625097" />
+    <Information id="tt0241527" description="An orphaned boy enrolls in a school of wizardry, where he learns the truth about himself, his family and the terrible evil that haunts the magical world." actors="Richard Harris, Maggie Smith, Robbie Coltrane, Saunders Triplets, Daniel Radcliffe, Fiona Shaw, Harry Melling, Richard Griffiths, Derek Deadman, Ian Hart, Ben Borowiecki, Warwick Davis, Verne Troyer, John Hurt, Richard Bremmer" director="Chris Columbus" prodCompany="Warner Bros." />
+  </Movie>
+  <Movie id="tt0417741" title="Harry Potter e il principe mezzosangue" originalTitle="Harry Potter and the Half-Blood Prince" year="2009" genres="action, adventure, family" duration="153" countries="UK, USA">
+    <Rating id="tt0417741" rating="7.6" numRatings="458080" />
+    <Information id="tt0417741" description="As Harry Potter (" actors="Daniel Radcliffe, Michael Gambon, Dave Legeno, Elarica Johnson, Jim Broadbent, Geraldine Somerville, Bonnie Wright, Julie Walters, Rupert Grint, Emma Watson, Helena Bonham Carter, Helen McCrory, Timothy Spall, Alan Rickman, Oliver Phelps" director="David Yates" prodCompany="Warner Bros." />
+  </Movie>
+  <Movie id="tt0373889" title="Harry Potter e l'Ordine della Fenice" originalTitle="Harry Potter and the Order of the Phoenix" year="2007" genres="action, adventure, family" duration="138" countries="UK, USA">
+    <Rating id="tt0373889" rating="7.5" numRatings="494073" />
+    <Information id="tt0373889" description="With their warning about Lord Voldemort's (Ralph Fiennes') return scoffed at, Harry (Daniel Radcliffe) and Dumbledore (Sir Michael Gambon) are targeted by the Wizard authorities as an authoritarian bureaucrat slowly seizes power at Hogwarts." actors="Daniel Radcliffe, Harry Melling, Jason Boyd, Richard Macklin, Kathryn Hunter, Miles Jupp, Fiona Shaw, Richard Griffiths, Jessica Hynes, Adrian Rawlins, Geraldine Somerville, Robert Pattinson, Ralph Fiennes, Natalia Tena, Brendan Gleeson" director="David Yates" prodCompany="Warner Bros." />
+  </Movie>
+</MovieSelection>

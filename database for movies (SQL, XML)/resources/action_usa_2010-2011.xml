@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MovieSelection>
+  <Movie id="tt1245526" title="RED" originalTitle="RED" year="2010" genres="action, comedy, crime" duration="111" countries="USA, China">
+    <Rating id="tt1245526" rating="7.0" numRatings="284340" />
+    <Information id="tt1245526" description="When his peaceful life is threatened by a high-tech assassin, former black-ops agent Frank Moses reassembles his old team in a last-ditch effort to survive and uncover his assailants." actors="Bruce Willis, Mary-Louise Parker, Heidi von Palleske, Jefferson Brown, Karl Urban, Chris Owens, Rebecca Pidgeon, Morgan Freeman, Jaqueline Fleming, Randy Wade Kelley, Jason Giuliano, Alec Rayme, Lawrence Turner, Emily Kuroda, Joe Chrest" director="Robert Schwentke" prodCompany="Summit Entertainment" />
+  </Movie>
+  <Movie id="tt1328908" title="Bold Native" originalTitle="Bold Native" year="2010" genres="action, adventure, comedy" duration="105" countries="USA">
+    <Rating id="tt1328908" rating="7.1" numRatings="496" />
+    <Information id="tt1328908" description="Charlie Cranehill, an animal liberator wanted for domestic terrorism, emerges from the underground to coordinate a nationwide action as his estranged CEO father tries to find him before the FBI does." actors="Joaquin Pastor, Randolph Mantooth, Sheila Vand, Matt Shea, Kristine Louise, Tonya Kay, Ursula Whittaker, Jessica Hagan, Jaime Andrews, Aflamu Johnson, Charley Rossman, Joshua Leonard, Tracey Leigh Turner, Ben Messmer, Peter Young" director="Denis Henry Hennelly" prodCompany="Gather Films" />
+  </Movie>
+  <Movie id="tt1250777" title="Kick-Ass" originalTitle="Kick-Ass" year="2010" genres="action, comedy, crime" duration="117" countries="UK, USA, China">
+    <Rating id="tt1250777" rating="7.6" numRatings="517708" />
+    <Information id="tt1250777" description="Dave Lizewski is an unnoticed high school student and comic book fan who one day decides to become a superhero, even though he has no powers, training or meaningful reason to do so." actors="Aaron Taylor-Johnson, Garrett M. Brown, Evan Peters, Deborah Twiss, Lyndsy Fonseca, Sophie Wu, Elizabeth McGovern, Christopher Mintz-Plasse, Stu 'Large' Riley, Johnny Hopkins, Ohene Cornelius, Mark Strong, Michael Rispoli, Corey Johnson, Kenneth Simmons" director="Matthew Vaughn" prodCompany="Marv Films" />
+  </Movie>
+  <Movie id="tt1899353" title="The Raid - Redenzione" originalTitle="Serbuan maut" year="2011" genres="action, thriller" duration="101" countries="Indonesia, France, USA">
+    <Rating id="tt1899353" rating="7.6" numRatings="187202" />
+    <Information id="tt1899353" description="A S.W.A.T. team becomes trapped in a tenement run by a ruthless mobster and his army of killers and thugs." actors="Iko Uwais, Joe Taslim, Donny Alamsyah, Yayan Ruhian, Pierre Gruno, Ray Sahetapy, Tegar Satrya, Iang Darmawan, Eka 'Piranha' Rahmadia, Verdi Solaiman, Alfridus Godfred, Rully Santoso, Melkias Ronald Torobi, Johanes Tuname, Sofyan Alop" director="Gareth Evans" prodCompany="Pt. Merantau Films" />
+  </Movie>
+  <Movie id="tt1650062" title="Super 8" originalTitle="Super 8" year="2011" genres="action, adventure" duration="112" countries="USA">
+    <Rating id="tt1650062" rating="7.0" numRatings="334427" />
+    <Information id="tt1650062" description="During the summer of 1979, a group of friends witness a train crash and investigate subsequent unexplained events in their small town." actors="Joel Courtney, Jessica Tuck, Joel McKinnon Miller, Ryan Lee, Zach Mills, Riley Griffiths, Gabriel Basso, Kyle Chandler, Ron Eldard, AJ Michalka, Andrew Miller, Jakob Miller, Jade Griffiths, Britt Flatmo, Elle Fanning" director="J.J. Abrams" prodCompany="Paramount Pictures" />
+  </Movie>
+  <Movie id="tt1318514" title="L'alba del pianeta delle scimmie" originalTitle="Rise of the Planet of the Apes" year="2011" genres="action, drama" duration="105" countries="USA, UK, Canada">
+    <Rating id="tt1318514" rating="7.6" numRatings="490488" />
+    <Information id="tt1318514" description="A substance designed to help the brain repair itself gives advanced intelligence to a chimpanzee who leads an ape uprising." actors="Andy Serkis, Karin Konoval, Terry Notary, Richard Ridings, Christopher Gordon, Devyn Dalton, Jay Caputo, James Franco, Freida Pinto, John Lithgow, Brian Cox, Tom Felton, David Oyelowo, Tyler Labine, Jamie Harris" director="Rupert Wyatt" prodCompany="Twentieth Century Fox" />
+  </Movie>
+  <Movie id="tt0800369" title="Thor" originalTitle="Thor" year="2011" genres="action, adventure, fantasy" duration="115" countries="USA">
+    <Rating id="tt0800369" rating="7.0" numRatings="731043" />
+    <Information id="tt0800369" description="The powerful but arrogant god Thor is cast out of Asgard to live amongst humans in Midgard (Earth), where he soon becomes one of their finest defenders." actors="Chris Hemsworth, Natalie Portman, Tom Hiddleston, Anthony Hopkins, Stellan Skarsgård, Kat Dennings, Clark Gregg, Colm Feore, Idris Elba, Ray Stevenson, Tadanobu Asano, Josh Dallas, Jaimie Alexander, Rene Russo, Adriana Barraza" director="Kenneth Branagh" prodCompany="Paramount Pictures" />
+  </Movie>
+  <Movie id="tt0983193" title="Le avventure di Tintin - Il segreto dell'Unicorno" originalTitle="The Adventures of Tintin" year="2011" genres="animation, action, adventure" duration="107" countries="USA, NewZealand, UK, France, Australia">
+    <Rating id="tt0983193" rating="7.3" numRatings="213212" />
+    <Information id="tt0983193" description="Intrepid reporter Tintin and Captain Haddock set off on a treasure hunt for a sunken ship commanded by Haddock's ancestor." actors="Jamie Bell, Andy Serkis, Daniel Craig, Nick Frost, Simon Pegg, Daniel Mays, Gad Elmaleh, Toby Jones, Joe Starr, Enn Reitel, Mackenzie Crook, Tony Curran, Sonje Fortag, Cary Elwes, Phillip Rhys" director="Steven Spielberg" prodCompany="Columbia Pictures" />
+  </Movie>
+  <Movie id="tt0446029" title="Scott Pilgrim vs. the World" originalTitle="Scott Pilgrim vs. the World" year="2010" genres="action, comedy, fantasy" duration="112" countries="USA, UK, Canada, Japan">
+    <Rating id="tt0446029" rating="7.5" numRatings="368833" />
+    <Information id="tt0446029" description="Scott Pilgrim must defeat his new girlfriend's seven evil exes in order to win her heart." actors="Michael Cera, Kieran Culkin, Anna Kendrick, Alison Pill, Aubrey Plaza, Mary Elizabeth Winstead, Jason Schwartzman, Johnny Simmons, Mark Webber, Ellen Wong, Satya Bhabha, Will Bowes, Celine Lepage, Keita Saitou, Mark Leroy" director="Edgar Wright" prodCompany="Universal Pictures" />
+  </Movie>
+</MovieSelection>
